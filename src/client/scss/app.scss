@@ -1,0 +1,12 @@
+$theme-colors: (
+    'primary': #0091ea //Covalence Blue!  :D
+);
+
+.step-circle {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
